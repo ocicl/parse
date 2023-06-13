@@ -1,0 +1,10 @@
+* parse
+
+Monadic parsing for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/massung/parse.git   |
+| commit  | 2351ee7  |
+| systems | parse |
+|---------+-------------------------------------------|
+
